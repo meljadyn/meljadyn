@@ -1,7 +1,7 @@
 ### Hey, I'm Mel.
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Web+Developer;Programming+Enthusiast)](https://git.io/typing-svg)
-- I am capable of full stack web development, but I prefer back-end.
-- My favourite language is TypeScript, but I also enjoyed Ruby and C when I dabbled in them.
+- I am capable of full stack web development, but I'm super interested in digging in and making interesting tools that solve real problems.
+- My favourite language is TypeScript, but I also enjoyed Python, Ruby, and C when I dabbled in them.
 - I am excited to continue and learn more in the wide world of programming. 
 
 ### Frontend
