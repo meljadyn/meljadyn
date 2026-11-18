@@ -5,8 +5,6 @@
 - I am excited to continue and learn more in the wide world of programming. 
 
 ### Currently Working On
-#### The Writer's Hub
-A website designed to help writer's track their goals and goal process, as well as plan their novel. It's the one-stop-shop for all writing productivity.
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
